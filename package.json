@@ -1,5 +1,5 @@
 {
-  "name": "joi-sequelize",
+  "name": "nickel-joi-sequelize",
   "version": "0.2.7",
   "scripts": {
     "test": "mocha test --recursive"
@@ -9,7 +9,6 @@
     "mocha": "^2.4.5"
   },
   "dependencies": {
-    "joi": "^8.0.5",
     "lodash": "^4.9.0"
   }
 }
